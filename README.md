@@ -45,7 +45,7 @@ Our goal: replace legacy 2–5 day telecom reconciliations with **sub-5-minute**
 
 ```
 /canisters/settlement/        # Rust canister (ic-cdk)
-/docs/                        # Grant milestones, deployment, API docs
+/docs/                        # Grant milestones, API docs, diagrams
 /scripts/                     # Demo scripts
 README.md
 dfx.json
@@ -65,7 +65,7 @@ Cargo.toml                    # workspace
 **Run**
 ```bash
 # 1) clone & start local replica
-git clone https://github.com/Xarvallc/xarva-icp-settlement.git
+git clone https://github.com/YOUR-ORG/xarva-icp-settlement.git
 cd xarva-icp-settlement
 dfx start --clean --background
 
@@ -130,7 +130,7 @@ service : {
 ---
 
 ## Roadmap (Grant Milestones)
-See [`/docs/grant_milestones.md`](./docs/grant_milestones.md) and [`/docs/deploy.md`](./docs/deploy.md) for the full scope and instructions.
+See [`/docs/grant_milestones.md`](./docs/grant_milestones.md) for the full, testable scope, timelines, and acceptance criteria.
 
 ---
 
