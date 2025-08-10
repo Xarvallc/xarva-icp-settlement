@@ -65,7 +65,7 @@ Cargo.toml                    # workspace
 **Run**
 ```bash
 # 1) clone & start local replica
-git clone https://github.com/YOUR-ORG/xarva-icp-settlement.git
+git clone https://github.com/Xarvallc/xarva-icp-settlement.git
 cd xarva-icp-settlement
 dfx start --clean --background
 
