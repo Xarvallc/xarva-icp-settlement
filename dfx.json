@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "canisters": {
+    "settlement": {
+      "type": "rust",
+      "package": "settlement",
+      "candid": "canisters/settlement/settlement.did"
+    }
+  }
+}
