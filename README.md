@@ -45,7 +45,7 @@ Our goal: replace legacy 2–5 day telecom reconciliations with **sub-5-minute**
 
 ```
 /canisters/settlement/        # Rust canister (ic-cdk)
-/docs/                        # Grant milestones, API docs, diagrams
+/docs/                        # Grant milestones, deployment, API docs
 /scripts/                     # Demo scripts
 README.md
 dfx.json
@@ -130,7 +130,7 @@ service : {
 ---
 
 ## Roadmap (Grant Milestones)
-See [`/docs/grant_milestones.md`](./docs/grant_milestones.md) for the full, testable scope, timelines, and acceptance criteria.
+See [`/docs/grant_milestones.md`](./docs/grant_milestones.md) and [`/docs/deploy.md`](./docs/deploy.md) for the full scope and instructions.
 
 ---
 
